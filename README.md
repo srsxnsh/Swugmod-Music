@@ -1,4 +1,4 @@
 # Swugmod-Music
 #CREDITS
 
-#Occulii - SWDL, SWSC
+#Occulii (srsxnsh)- SWDL, SWSC
